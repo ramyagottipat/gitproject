@@ -1,5 +1,3 @@
-def main():
-    print("Employee Management System")
+def delete_employee(name):
+    print(f"Employee {name} deleted")
 
-if __name__ == "__main__":
-    main()
